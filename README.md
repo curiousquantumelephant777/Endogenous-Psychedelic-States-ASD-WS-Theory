@@ -1,2 +1,2 @@
 # Trace-Amine-ASD-WS-Comparison
-Research on autism spectrum disorder (ASD) and (WS) as endogenous psychedelic states (tryptamine-based in ASD/phenethylamine-based in WS)
+This research proposes a novel metabolic framework for understanding Autism Spectrum Disorder (ASD) and Williams Syndrome (WS) not as "deficits," but as distinct Endogenous Psychedelic States. I hypothesize that the phenotypic "mirroring" observed between these conditions (social withdrawal and sensory intensity in ASD versus hypersociability and social fearlessness in WS) is driven by divergent shunts in the pineal and trace amine pathways.
