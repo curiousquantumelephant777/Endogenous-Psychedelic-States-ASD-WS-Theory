@@ -18,7 +18,7 @@ The selection of GTF2I as a focal point is supported by evolutionary biology. St
 
 ### The INMT Axis
 
-Altered INMT expression has been associated with neuropsychiatric conditions [[5]](#ref5). While the domestication syndrome characterizes the WS profile, the ASD profile may be regulated by a transmethylation shunt. It is proposed that elevated **INMT** *(Indolethylamine N-methyltransferase)* activity serves as a metabolic switch, diverting tryptophan from the canonical serotonin pathway toward endogenous psychotropics such as $N,N\text{-DMT}$ and $5\text{-HO-DMT}$ (Bufotenine). 
+Altered INMT expression has been associated with neuropsychiatric conditions [[5]](#ref5). While the domestication syndrome characterizes the WS profile, the ASD profile may be regulated by a transmethylation shunt. It is proposed that elevated **INMT** *(Indolethylamine N-methyltransferase)* activity serves as a metabolic switch, diverting tryptophan from the canonical serotonin pathway toward endogenous psychotropics such as $N,N\text{-DMT}$ and $5\text{-HO-DMT}$ (Bufotenine). The proposed framework identifies the ASMT-INMT enzymatic axis as a primary biosynthetic pathway for endogenous empathogenic ligands; specifically, it is hypothesize that transcriptomic upregulation or altered feedback loops within this axis facilitate a recursive production of methyl-substituted indolethylamines, effectively shifting the social-cognition manifold toward a permanent 'prosocial' state.
 
 ### The Steroid-Methylation Shunt: INMT as a Developmental Adaptive Response
 
