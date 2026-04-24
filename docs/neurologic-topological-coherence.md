@@ -1,5 +1,6 @@
 # 🎻 The Topological Resonator: A Theoretical Framework of Neurological Coherence
 
+## Current Status: Python/RDKit/Matplotlib Modeling, Literature Synthesis, Biological/biophysical Hypothesis Generation
 This project documents an independent investigation into the quantum topology and neurogenetics of social resonance. The central hypothesis explores the relaxed vs tense state of biological stuctures (e.g., trabeculae, microtubules, heterodimers, and opthalmalogic phenomena, specifically focusing on the Williams Syndrome (WS) phenotype as a model for endogenous empathogenic signaling. It also investigates how endogenous and exogenous empathogenic compounds differ in topological characteristics and dipole distributions.
 
 In Williams Syndrome, the deletion of elastin leads to a more "open lattice" 
@@ -29,7 +30,7 @@ Molecular Electrostatic Potential (MESP) mapping to identify molecules that act 
 * Arborization: The model proposes that centrifugal MESP gradients exert dielectric pressure on the cytoskeleton, triggering hyper-arborization.
 * Epigenetic Tuning: Field-mediated effects on proton tunneling rates influencing DNA methylation at the WBSCR (GTF2I/LIMK1) loci.
 
-## 📐 Methodology & Tools
+## 📐 Methodology & Tools (Proposed)
 * Quantum Engine: ORCA for solving the Schrödinger Equation.
 * Topology Analysis: Multiwfn for Vector Flux and Gradient mapping.
 * Hardware: Optimized for Apple Silicon (M5) unified memory architectures.
