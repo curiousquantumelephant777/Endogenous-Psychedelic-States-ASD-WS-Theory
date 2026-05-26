@@ -1,4 +1,4 @@
-# 🧬💞 From Molecular Biology to Social Cognition: A Comparative Neuroembryogenic and Genomic Analysis of Williams Syndrome and ASD
+# 🧬💞 From Molecular Topological Biology to Social Cognition: A Comparative Neuroembryogenic and Genomic Analysis of Williams Syndrome and ASD
 
 ## Introduction
 Williams Syndrome and Autism Spectrum Disorder (ASD) social phenotypes are often seen as polar opposites [[1]](#ref1). While Niego and Benítez-Burraco establish that WS and ASD function as socio-cognitive mirror images, the underlying molecular mechanism may be driven by the GTF2I mediated regulation of TAAR1 binding affinities. This creates a naturally empathogenic, gregarious phenotype that mirrors the acute effects of substituted phenethylamines, most notably MDMA [[1]](#ref1). Furthermore, elevated levels of endogenous bufotenin have been identified in individuals with ASD [[2]](#ref2), suggesting a tryptamine-mediated shift in the social perception manifold. This research seeks to bridge the gap between neuroembryogenesis, neuroendocrinology, and evolutionary genomics in the context of WS and ASD.
@@ -43,6 +43,21 @@ The documented hyper-arborization of Layer V/VI pyramidal neurons provides the p
 | Topological State        | "Empathogenic, Open State"               | "Closed, High-Threshold State"                  |
 | Signal Processing        | High "surface area" for social signal capture | Reduced "surface area" for social integration |
 
+### 🌊 Perineuronal Nets and Neurotransmitter Flux
+
+Another area of interest is perineuronal nets (PNNs), which are specialized extracellular matrix structures that surround fast-spiking, parvalbumin-positive ($PV^+$) GABAergic interneurons [12]. PNNs have been shown to play a significant role in neurodevelopment and neuroplasticity (specifically the regulation of socioemotional critical periods of development.
+
+Ideas: 
+- PNNs may be more open in areas near and around Layer IV/V pyramidal neurons in WS, which may be mediated in part by the deletion of the elastin gene. The open sta
+- Conversely, in autism, abnormal PNN development and function are heavily linked to rigid behaviors, cognitive inflexibility, and social memory deficits.
+- The open topological flux of PNNs in Williams Syndrome is theorized to allow for more fluid neurotransmitter binding and potentially halide flux. It is hypothesized that this open-state may favor the flux of free bromide ions. If the genetic microdeletion on 7q11.23 permanently leaves the PNNs in a loose, permeable, juvenile topology, the local neural microenvironments may be continuously generating metabolites that mirror the effects of trace, brominated phenethylamine analogs (e.g., 2-CB). This idea was based off of observing how the WS sociocognitive phenotype closely mirrors the acute effects of 2-CB. Note that this hypothesis is very speculative and not proven.
+
+### 💫 Future Directions
+- **Computational Ophthalmology & Phenotypic Biomarkers:** Developing a script to analyze the fractal depth of irises and comparing irises of WS to those of ASD phenotypes. This could be measured in the general population too and correlated with empathy scores (does a higher iris stellation/fractal depth correlate with higher scores on an empathy questionnaire)?  This structural porosity index will be correlated against standardized empathy questionnaires (e.g., SRS-2) to evaluate $D_F$ as a peripheral proxy for systemic extracellular matrix laxity.
+- **Quantum Molecular Dynamics of Trace Amines:** Modeling the nonlinear topological effects of Br and sigma-hole topology as it relates to how proteins interact with endogenous phenethylamines and tryptamines (e.g., TAAR1) using RDKit and PYmol 3d.
+- **Ex Vivo Characterization of the Halide Sieve:** Quantify real-time halide flux thresholds ($E_{Cl}$ vs. $E_{Br}$) in acute brain slices (medial prefrontal cortex and amygdala) across wild-type, WS ($Gtf2i^{-/+}$), and ASD mouse models. Introduce Chondroitinase ABC (ChABC) as an enzymatic control to selectively degrade perineuronal nets (PNNs) in neurotypical tissues, directly testing the hypothesis that matrix porosity dictates localized, polarizable halide accumulation.
+- **Evolutionary Bioinformatics of Methylation Pathways:** Conducting bioinformatics analysis to determine INMT gene sequence differences between ASD and WS phenotypes, and even comparing them to INMT sequences in the *Incilius Alvarius* toad genome to see if there are any conserved motifs expressed more in ASD phenotypes, focusing on variations in the SAMe-binding pocket that might alter baseline methylation kinetics across different neurodevelopmental topologies.
+
 ## References
 1. <a id="ref1"></a> Niego, A., & Benítez-Burraco, A. (2020). *Autism and Williams syndrome: truly mirror conditions in the socio-cognitive domain?* *International Journal of Developmental Disabilities*, 68(4), 399–415. DOI: [10.1080/20473869.2020.1817717](https://doi.org/10.1080/20473869.2020.1817717)
 2.  <a id="ref2"></a>Emanuele, E., Colombo, R., Martinelli, V., Brondino, N., Marini, M., Boso, M., Barale, F., & Politi, P. (2010). *Elevated urine levels of bufotenine in patients with autistic spectrum disorders and schizophrenia.* *Neuro Endocrinology Letters*, 31(1), 117-121. PMID: [20150873](https://pubmed.ncbi.nlm.nih.gov/20150873/)
@@ -55,3 +70,4 @@ The documented hyper-arborization of Layer V/VI pyramidal neurons provides the p
 9. <a id="ref9"></a> Su, T. P., et al. (2026). *The Sigma-1 Receptor as a Pluripotent Modulator in Neuropsychiatric Disorders*. *Journal of Biomedical Science*. [https://doi.org/10.1186/s12929-026-00000-0](https://doi.org/10.1186/s12929-026-00000-0)
 10. <a id="ref10"></a> Hrvoj-Mihic, B., et al. (2017). Basal Dendritic Morphology of Cortical Pyramidal Neurons in Williams Syndrome: Prefrontal Cortex and Beyond. Frontiers in Neuroscience, 11, 419. https://doi.org/10.3389/fnins.2017.00419 
 11. <a id="ref11"></a> Chailangkarn, T., Muotri, A. R., et al. (2016). A human neurodevelopmental model for Williams syndrome. Nature, 536(7616), 338–343. https://www.nature.com/articles/nature19067
+12. <a id="ref12"></a> Auer, S., Schicht, M., Hoffmann, L., Budday, S., Frischknecht, R., Blümcke, I., & Paulsen, F. (2025). The Role of Perineuronal Nets in Physiology and Disease: Insights from Recent Studies. *Cells*, *14*(5), 321. https://doi.org/10.3390/cells14050321
